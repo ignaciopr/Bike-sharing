@@ -14,6 +14,8 @@ We chose the best model to solve the problem of predicting bike usage on an hour
 
 Our predictive model accurately predicted bike usage on an hourly basis and provided additional insights when plotted against actual bike usage. We conducted a deep analysis of the results and provided explanations about the decisions taken, including the chosen model, hyperparameter settings, and evaluation metrics employed.
 
+Note: The predictions are for the last week of 2012.
+
 **Conclusion**
 
 Our report provides the head of transportation services with a comprehensive analysis of the bike-sharing service, including deep insights into usage patterns and a predictive model for forecasting bike usage on an hourly basis. Our analysis and model will help the transportation services team optimize bike provisioning, reduce costs, and provide a better service to citizens.
